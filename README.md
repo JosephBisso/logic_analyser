@@ -7,7 +7,7 @@ A FPGA hardware project for analyzing digital signals on the Xilinx FPGA Develop
 
 - Captures and visualizes digital logic signals
 - **8 channels**
-- Fot Signals of up to **1Mhz** frequency
+- For signals of up to **1Mhz** frequency
 - **VGA output**
 - **Modular hardware design**
 
